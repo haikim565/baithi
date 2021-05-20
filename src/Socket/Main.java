@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         ArrayList<Socket.Employees> a = new ArrayList<>();
-        a.add(new Socket.Employees("001","Le Van Nam",199));
+        a.add(new Socket.Employees("001","Le Van Nam",1909));
         a.add(new Socket.Employees("002","Nguyen Vu Lam",200));
         a.add(new Socket.Employees("003","Tran Thi Nhu",201));
 
